@@ -1,0 +1,17 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #9dfde2;
+}
+img.logo:hover {
+  transition: all 0.3s;
+  filter: brightness(75%);
+}
+#Projects {
+  background-color: #21e6ae;
+}
+section {
+  padding-top: 5rem;
+}
